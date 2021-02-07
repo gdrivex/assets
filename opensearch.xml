@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>GDrive-X Premium</ShortName>
+<Description>Search GDrive-X Premium</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/x-icon">https://gdrivex-premium.blogspot.com/favicon.ico</Image>
+<Url type="text/html" method="get" template="https://gdrivex-premium.blogspot.com/search?q={search_term_string}&ref=opensearch"/>
+<moz:SearchForm>https://gdrivex-premium.blogspot.com/search</moz:SearchForm>
+</OpenSearchDescription>
