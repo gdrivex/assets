@@ -3,6 +3,6 @@
 <Description>Search GDrive-X Premium</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Image width="16" height="16" type="image/x-icon">https://gdrivex-premium.blogspot.com/favicon.ico</Image>
-<Url type="text/html" method="get" template="https://gdrivex-premium.blogspot.com/search?q={search_term_string}&ref=opensearch"/>
+<Url type="text/html" method="get" template="https://gdrivex-premium.blogspot.com/search?q={search_term_string}"/>
 <moz:SearchForm>https://gdrivex-premium.blogspot.com/search</moz:SearchForm>
 </OpenSearchDescription>
